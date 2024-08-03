@@ -1,0 +1,85 @@
+{
+    "treasuries_20": {
+        "set_name": "US Treasury 20 Years",
+        "bench": "IDCOT20TR:PSE",
+        "bench_display": "ICE U.S. Treasury 20+ Year Bond Index",
+        "bull": "TMV",
+        "bull_display": "Direxion Daily 20+ Year Treasury Bull 3X Shares",
+        "bear": "TMF",
+        "bear_display": "Direxion Daily 20+ Year Treasury Bear 3X Shares"
+    },
+    "treasuries_7": {
+        "set_name":"US Treasury 7-10 Years",
+        "bench": "IDCOT7TR:PSE",
+        "bench_display":"ICE U.S. Treasury 7-10 Year Bond Index",
+        "bull": "TYD",
+        "bull_display":"Direxion Daily 7-10 Year Treasury Bull 3X Shares",
+        "bear": "TYO",
+        "bear_display":"Direxion Daily 7-10 Year Treasury Bear 3X Shares"
+    },
+    "ftse_china": {
+        "set_name":"FTSE China",
+        "bench": "FTXIN0H:FSI",
+        "bench_display":"FTSE China 50 Index",
+        "bull": "YINN",
+        "bull_display":"Direxion Daily FTSE China Bull 3X Shares",
+        "bear": "YANG",
+        "bear_display":"Direxion Daily FTSE China Bear 3X Shares"
+    },
+    "eu_mid_cap":{
+        "set_name": "FTSE Developed Europe",
+        "bench": "TFTACDEURSU:FSI",
+        "bench_display": "FTSE Developed Europe All Cap Index",
+        "bull": "EURL",
+        "bull_display":"Direxion Daily FTSE Europe Bull 3X Shares"
+
+    },
+    "emerging_markets": {
+        "set_name": "MSCI Emerging Markets",
+        "bench": "EEM",
+        "bench_display": "MSCI Emerging Markets Index",
+        "bull": "EDC",
+        "bull_display":"Direxion Daily MSCI Emerging Markets Bull 3X Shares",
+        "bear": "EDZ",
+        "bear_display": "Direxion Daily MSCI Emerging Markets Bear 3X Shares"
+    },
+    "mexico": {
+        "set_name": "MSCI Mexico",
+        "bench": "EWW",
+        "bench_display":"MSCI Mexico IMI 25/50 Index",
+        "bull": "MEXX",
+        "bull_display": "Direxion Daily MSCI Mexico Bull 3X Shares"
+    },
+    "korea": {
+        "set_name": "MSCI Korea",
+        "bench": "EWY",
+        "bench_display": "MSCI Korea IMI 25/50 Index",
+        "bull": "KORU",
+        "bull_display": "Direxion Daily MSCI Korea Bull 3X Shares"
+    },
+    "sp_mid_cap": {
+        "set_name": "S&P 400",
+        "bench": "IJH",
+        "bench_display":"S&P Mid Cap 400 Index", 
+        "bull": "MIDU",
+        "bull_display": "Direxion Daily Mid Cap Bull 3X Shares"
+    },
+    "spy": {
+        "set_name": "S&P 500",
+        "bench": "SPY",
+        "bench_display": "S&P 500 Index",
+        "bull": "SPXL",
+        "bull_display": "Direxion Daily S&P 500 Bull 3X Shares",
+        "bear": "SPXS",
+        "bear_display": "Direxion Daily S&P 500 Bear 3X Shares"
+    },
+    "rut": {
+        "set_name": "Russell 2000",
+        "bench": "IWM",
+        "bench_display":"Russell 2000 Index",
+        "bull": "TNA",
+        "bull_display": "Direxion Daily Russell 2000 Bull 3X Shares",
+        "bear": "TZA",
+        "bear_display": "Direxion Daily Russell 2000 Bear 3X Shares"
+    }
+}

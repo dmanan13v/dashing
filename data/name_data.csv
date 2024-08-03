@@ -1,0 +1,17 @@
+tickers,name,benchmark_ticker,benchmark_name,bench_ticker,etf_benchmark
+TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares,IDCOT20,ICE U.S. Treasury 20+ Year Bond Index,ICE20YR,FALSE
+TMV,Direxion Daily 20+ Year Treasury Bear 3X Shares,IDCOT20,ICE U.S. Treasury 20+ Year Bond Index,ICE20YR,FALSE
+TYD,Direxion Daily 7-10 Year Treasury Bull 3X Shares,IDCOT7,ICE U.S. Treasury 7-10 Year Bond Index,ICE7YR,FALSE
+TYO,Direxion Daily 7-10 Year Treasury Bear 3X Shares,IDCOT7,ICE U.S. Treasury 7-10 Year Bond Index,ICE7YR,FALSE
+YINN,Direxion Daily FTSE China Bull 3X Shares,TXIN0UNU,FTSE China 50 Index,FTSECHINA,FALSE
+YANG,Direxion Daily FTSE China Bear 3X Shares,TXIN0UNU,FTSE China 50 Index,FTSECHINA,FALSE
+EURL,Direxion Daily FTSE Europe Bull 3X Shares,ACDER,FTSE Developed Europe All Cap Index,FTSE_EU,FALSE
+EDC,Direxion Daily MSCI Emerging Markets Bull 3X Shares,NDUEEGF,MSCI Emerging Markets Index,EEM,TRUE
+EDZ,Direxion Daily MSCI Emerging Markets Bear 3X Shares,NDUEEGF,MSCI Emerging Markets Index,EEM,TRUE
+MEXX,Direxion Daily MSCI Mexico Bull 3X Shares,M1CXBLRL,MSCI Mexico IMI 25/50 Index,EWW,TRUE
+KORU,Direxion Daily MSCI South Korea Bull 3X Shares,M1KR2550,MSCI Korea 25/50 Index,EWY,TRUE
+MIDU,Direxion Daily Mid Cap Bull 3X Shares,SPTRMDCP,S&P Mid Cap 400 Index,IJH,TRUE
+SPXL,Direxion Daily S&P 500 Bull 3X Shares,SPXT,S&P 500 Index,SPY,FALSE
+SPXS,Direxion Daily S&P 500 Bear 3X Shares,SPXT,S&P 500 Index,SPY,FALSE
+TNA,Direxion Daily Small Cap Bull 3X Shares,RU20IN,Russell 2000 Index,IWM,FALSE
+TZA,Direxion Daily Small Cap Bear 3X Shares,RU201N,Russell 2000 Index,IWM,FALSE
