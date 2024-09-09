@@ -3,9 +3,9 @@
         "set_name": "US Treasury 20 Years",
         "bench": "IDCOT20TR:PSE",
         "bench_display": "ICE U.S. Treasury 20+ Year Bond Index",
-        "bull": "TMV",
+        "bull": "TMF",
         "bull_display": "Direxion Daily 20+ Year Treasury Bull 3X Shares",
-        "bear": "TMF",
+        "bear": "TMV",
         "bear_display": "Direxion Daily 20+ Year Treasury Bear 3X Shares"
     },
     "treasuries_7": {

@@ -8,7 +8,7 @@
 # print(field_list)
 
 
-from data_sorter import DataSorter
+from data.data_sorter import DataSorter
 data_interface = DataSorter()
 
 print(data_interface.filter_by_strings(['YINN']))

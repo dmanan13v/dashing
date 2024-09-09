@@ -1,0 +1,9 @@
+.content_loaded {
+    background-image: none;
+    background-color: white;
+}
+
+.hidden_content {
+    opacity: 0.0;
+    pointer-events: none;
+}
