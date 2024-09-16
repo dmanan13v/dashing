@@ -1,10 +1,7 @@
-from dataclasses import dataclass, fields
+from dataclasses import dataclass
 from typing import Optional
-
-import pandas as pd
-
+from config_service.moments import Moments
 from config_service.small_return import ReturnSummary
-
 
 @dataclass
 class AssetReturnHolder:
@@ -12,5 +9,8 @@ class AssetReturnHolder:
     bench_return: ReturnSummary
     bull_display: str
     bull_return: ReturnSummary
+    bench_stats: Moments
+    bull_stats: Moments
     bear_display: Optional[str] = None
     bear_return: Optional[ReturnSummary] = None
+    bear_stats: Optional[Moments] = None

@@ -1,9 +1,12 @@
 from dataclasses import dataclass, fields
+
 import pandas as pd
+
 from config_service.asset_map import AssetMap
 from config_service.asset_return import AssetReturnHolder
-from data.data_sorter import DataSorter
 from config_service.small_return import ReturnSummary
+from data.data_sorter import DataSorter
+
 
 def store_data(
     selected_asset: str, data_interface: DataSorter, map_interface: AssetMap
